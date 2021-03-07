@@ -1,7 +1,7 @@
 <img src='https://github.com/felipevargas-bz/felipevargas-bz/blob/main/banner.png' alt='Banner' width=100%>
 
 
-Skills: C / HTML / CSS
+
 
 - Social media.. 
 
