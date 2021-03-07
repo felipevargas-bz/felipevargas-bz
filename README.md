@@ -1,4 +1,4 @@
-![](https://ibb.co/VpXXZ0n)
+![](https://github.com/felipevargas-bz/felipevargas-bz/blob/main/banner.png)
 
 
 Skills: C / HTML / CSS
