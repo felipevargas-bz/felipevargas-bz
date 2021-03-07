@@ -1,4 +1,4 @@
-[<img src='https://github.com/felipevargas-bz/felipevargas-bz/blob/main/banner.png'>]
+<img src='https://github.com/felipevargas-bz/felipevargas-bz/blob/main/banner.png' alt='Banner' height='100%'>
 
 
 Skills: C / HTML / CSS
