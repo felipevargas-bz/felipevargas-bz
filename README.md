@@ -1,5 +1,5 @@
 <h2>Hi there <img src="https://github.com/felipevargas-bz/felipevargas-bz/blob/main/Hi.gif" width="25">, I'm Felipe.</h2>
-&nbsp; I am a programming student at Holberton School.
+<p align="center"> I am a programming student at Holberton School.</p>
 
 <br>
 
