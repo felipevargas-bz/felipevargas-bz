@@ -1,6 +1,11 @@
 <img src='https://github.com/felipevargas-bz/felipevargas-bz/blob/main/banner.png' alt='Banner' width=100%>
 
+<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevargas-bz&hide=jupyter%20notebook&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/felipevargas-bz/)
+
+
+</br>
 
 
 - Social media.. 
