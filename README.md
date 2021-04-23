@@ -23,3 +23,10 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/angel-felipe-vargas-benitez-9a6592206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100028222452093)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/felipevargas_bz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='Mail' height='40'>](mailto:felipevargas.bz@gmail.com)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='Youtube channel' height='40'>](https://www.youtube.com/channel/UCFrPLo_zV_OYjL5WFtGrN3A)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='Medium' height='40'>](https://medium.com/@felipevargas.bz)
   </p>
+<p align="center">
+&nbsp; <a href="https://twitter.com/felipevargas_bz" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="50" /></a>
+&nbsp; <a href="https://www.youtube.com/channel/UCFrPLo_zV_OYjL5WFtGrN3A" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/angel-felipe-vargas-benitez-9a6592206/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="50" /></a>
+&nbsp; <a href="mailto:felipevargas.bz@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"  width="50" /></a>
+&nbsp; <a href="https://felipevargas.bz.medium.com/" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" width="50" /></a>
+</p>
