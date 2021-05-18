@@ -9,7 +9,8 @@
 
 
 </br>
-
+</p>
+<p align="center">
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevargas-bz&hide=jupyter%20notebook&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/felipevargas-bz/)
