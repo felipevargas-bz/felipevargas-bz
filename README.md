@@ -1,3 +1,4 @@
+<img src="https://github.com/felipevargas-bz/felipevargas-bz/blob/main/1612885261250%20(1).jpg" width="100%">
 <h1>Hi there <img src="https://github.com/felipevargas-bz/felipevargas-bz/blob/main/Hi.gif" width="25">, I'm Felipe.</h1>
 <h2>I am a programming student at Holberton School.</h2>
 
