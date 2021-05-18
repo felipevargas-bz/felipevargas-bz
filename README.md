@@ -9,6 +9,12 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevargas-bz&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="Felipe's Top Langs">
 </p>
 
+<p align="center">
+   <a href="https://frontend.code-inspector.com/public/user/github/felipevargas-bz">
+      <img src="https://code-inspector.com/public/badge/user/github/felipevargas-bz?style=dark" alt="code inspector badge" />
+   </a>
+</p>
+
 ## Social media.. 
 
 <p align="center">
