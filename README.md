@@ -3,10 +3,10 @@
 <h2>I am a programming student at Holberton School.</h2>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipevargas-bz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide=issues" alt="Felipe Vargas Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipevargas-bz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide=issues" alt="Felipe Vargas Github Stats" width="100%">
 </p>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevargas-bz&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="Felipe's Top Langs">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevargas-bz&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="Felipe's Top Langs" width="100%">
 </p>
 
 ## Social media.. 
