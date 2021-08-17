@@ -11,9 +11,6 @@
 
 ## Social media.. 
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="light" data-vanity="felipe-vargas-9a6592206"><a class="LI-simple-link" href='https://co.linkedin.com/in/felipe-vargas-9a6592206?trk=profile-badge'>Felipe Vargas</a></div>
-
 <p align="center">
 &nbsp; <a href="https://twitter.com/felipevargas_bz" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="50" /></a>
 &nbsp; <a href="https://www.facebook.com/profile.php?id=100028222452093" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="50" /></a>
