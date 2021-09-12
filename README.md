@@ -10,23 +10,18 @@ I have carried out team projects with incredible people from whom I have learned
 
 <h2>💻 Some stats 💻</h2>
 
-<p>
+<p align="center">
+   ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=felipevargas-bz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</p>
 
-  
+<p align="center">
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevargas-bz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</p>
 
-<h3 align='left' >
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=felipevargas-bz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&width=10px)
-  
-  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevargas-bz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
-
-</h3>
-
-
+<p align="center">
+   <a href="https://frontend.code-inspector.com/public/user/github/felipevargas-bz">
+      <img src="https://code-inspector.com/public/badge/user/github/felipevargas-bz?style=dark" alt="code inspector badge" />
+   </a>
 </p>
 
 ## Social media.. 
