@@ -1,10 +1,10 @@
 <img src="https://github.com/felipevargas-bz/felipevargas-bz/blob/main/1612885261250%20(1).jpg" width="100%">
 <h1>Hi there <img src="https://github.com/felipevargas-bz/felipevargas-bz/blob/main/Hi.gif" width="25">, I'm Felipe.</h1>
 
-*I am in the development of innovative and surprising technology that brings people together.
-*I am a Software Developer graduated from Holberton School.
-*I want to leave a positive impression on each person with whom I form a team.
-*My work philosophy is: Learn the best of others and give the best of myself.
+- I am in the development of innovative and surprising technology that brings people together.
+- I am a Software Developer graduated from Holberton School.
+- I want to leave a positive impression on each person with whom I form a team.
+- My work philosophy is: Learn the best of others and give the best of myself.
 
 I have carried out team projects with incredible people from whom I have learned a lot about what defines me today as a programmer and a person.
 
