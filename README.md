@@ -16,7 +16,7 @@ I have carried out team projects with incredible people from whom I have learned
 
 <h3 align='left' >
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=felipevargas-bz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&width=10)
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=felipevargas-bz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&width=10px)
   
   
 
