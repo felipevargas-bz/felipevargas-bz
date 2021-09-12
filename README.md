@@ -24,7 +24,7 @@ I have carried out team projects with incredible people from whom I have learned
   
   
 
-<h3 align='right'>
+<h3 align='right' style="top:0;">
   
   
 
