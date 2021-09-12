@@ -20,7 +20,7 @@ I have carried out team projects with incredible people from whom I have learned
   
   
 
-<p width="10" align='right'>
+<h3 width="10" align='right'>
   
   
 
@@ -28,7 +28,7 @@ I have carried out team projects with incredible people from whom I have learned
 
 
 
-</p>
+</h3>
 
 ## Social media.. 
 
