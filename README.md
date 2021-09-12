@@ -9,10 +9,11 @@
 # I have carried out team projects with incredible people from whom I have learned a lot about what defines me today as a programmer and a person.
 
 <h2>💻 Some stats 💻</h2>
-
+<div>
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=felipevargas-bz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipevargas-bz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</div>
 
 ## Social media.. 
 
