@@ -1,6 +1,12 @@
 <img src="https://github.com/felipevargas-bz/felipevargas-bz/blob/main/1612885261250%20(1).jpg" width="100%">
 <h1>Hi there <img src="https://github.com/felipevargas-bz/felipevargas-bz/blob/main/Hi.gif" width="25">, I'm Felipe.</h1>
-<h2>I am a programming student at Holberton School.</h2>
+
+*I am in the development of innovative and surprising technology that brings people together.
+*I am a Software Developer graduated from Holberton School.
+*I want to leave a positive impression on each person with whom I form a team.
+*My work philosophy is: Learn the best of others and give the best of myself.
+
+# I have carried out team projects with incredible people from whom I have learned a lot about what defines me today as a programmer and a person.
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipevargas-bz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide=issues" alt="Felipe Vargas Github Stats">
