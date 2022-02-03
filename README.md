@@ -27,12 +27,6 @@ I have carried out team projects with incredible people from whom I have learned
 
 </h3>
 
-<p align="center">
-   <a href="https://frontend.code-inspector.com/public/user/github/felipevargas-bz">
-      <img src="https://code-inspector.com/public/badge/user/github/felipevargas-bz?style=dark" alt="code inspector badge" />
-   </a>
-</p>
-
 ## Social media.. 
 
 <p align="center">
