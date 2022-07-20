@@ -2,7 +2,6 @@
 
 
 - I am in the development of innovative and surprising technology that brings people together.
-- I am a Software Developer graduated from Holberton School.
 - I want to leave a positive impression on each person with whom I form a team.
 - My work philosophy is: Learn the best of others and give the best of myself.
 
