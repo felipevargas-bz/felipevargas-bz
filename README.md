@@ -1,11 +1,7 @@
 <h1>Hi there <img src="https://github.com/felipevargas-bz/felipevargas-bz/blob/main/Hi.gif" width="25">, I'm Felipe. <a href="#"><img src="https://www.gifsanimados.org/data/media/238/aguila-imagen-animada-0035.gif" border="0" alt="aguila-imagen-animada-0035" /></a></h1>
 
 
-- I am in the development of innovative and surprising technology that brings people together.
-- I want to leave a positive impression on each person with whom I form a team.
-- My work philosophy is: Learn the best of others and give the best of myself.
-
-I have carried out team projects with incredible people from whom I have learned a lot about what defines me today as a programmer and a person.
+I am a software developer specialized in Python, with experience in technologies such as Docker, Kubernetes, SQL and Redis. I have worked in wonderful companies, where I have developed new functionalities and optimized existing services. My focus is on developing efficient and scalable applications, using tools like Flask, Django and FastAPI. I also have experience in database management such as PostgreSQL and MySQL, and in project management in the cloud with Microsoft Azure. I am passionate about technology and always looking to stay updated on the latest trends.
 
 
 ## Social media.. 
