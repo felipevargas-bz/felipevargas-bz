@@ -1,7 +1,10 @@
 <h1>Hi there <img src="https://github.com/felipevargas-bz/felipevargas-bz/blob/main/Hi.gif" width="25">, I'm Felipe. <a href="#"><img src="https://www.gifsanimados.org/data/media/238/aguila-imagen-animada-0035.gif" border="0" alt="aguila-imagen-animada-0035" /></a></h1>
 
 
-I am a software developer specialized in Python, with experience in technologies such as Docker, Kubernetes, SQL and Redis. I have worked in wonderful companies, where I have developed new functionalities and optimized existing services. My focus is on developing efficient and scalable applications, using tools like Flask, Django and FastAPI. I also have experience in database management such as PostgreSQL and MySQL, and in project management in the cloud with Microsoft Azure. I am passionate about technology and always looking to stay updated on the latest trends.
+I am a passionate software developer specializing in the backend with strong Python skills and outstanding experience in the Django, FastAPI, Flask and aiohttp frameworks. My focus is on creating robust and efficient solutions that scale optimally. I possess advanced database management skills, including MySQL, PostgreSQL, SQL Server, Redis and DynamoDB, as well as experience implementing serverless functions using AWS Lambda.
+Throughout my career, I have participated in the conception of several software products. Among them, it stands out my collaboration in the development of an ordering application for SoftPymes, which is integrated with the accounting software called Pymes+.
+
+In addition, I had the privilege of being part of the team that created an efficient warehouse management system (WMS) for Laika. This joint effort was carried out in collaboration with the development team of the company APES and El Socio Digital, where I worked professionally.
 
 
 ## Social media.. 
